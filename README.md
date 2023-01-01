@@ -15,8 +15,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Random Wallpaper
-<img src="https://giffiles.alphacoders.com/159/15923.gif" width="512px"/>
+### 📱 Random Wallpaper
+<img src="https://giffiles.alphacoders.com/159/15923.gif" alt="" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shokolat1&icon=5&color=1)](https://visitcount.itsvg.in)
