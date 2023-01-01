@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🗿 About Me:
 🔭 I’m currently working on finishing my engineering degree<br>🤝 I’m looking for help with becoming better at problem solving and algorithms<br>🌱 I’m currently learning Python and C#<br>💬 You can ask me about web dev (beginner-intermediate)<br>⚡ Fun fact: I like to play the guitar
 
 ![](https://github.com/Shokolat1/Shokolat1/blob/main/xenoblade.gif)
