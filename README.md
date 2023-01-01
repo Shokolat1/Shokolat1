@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 📱 Random Wallpaper
-<img src="https://giffiles.alphacoders.com/159/15923.gif" alt="" width="512px"/>
+![](https://github.com/Shokolat1/Shokolat1/blob/main/xenoblade.gif)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shokolat1&icon=5&color=1)](https://visitcount.itsvg.in)
