@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on finishing my engineering degree<br>🤝 I’m looking for help with becoming better at problem solving and algorithms<br>🌱 I’m currently learning Python and C#<br>💬 You can ask me about web dev (beginner-intermediate)<br>⚡ Fun fact: I like to play the guitar
 
+![](https://github.com/Shokolat1/Shokolat1/blob/main/xenoblade.gif)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SHOKOLAT#0654) 
@@ -14,10 +15,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 📱 Random Wallpaper
-![](https://github.com/Shokolat1/Shokolat1/blob/main/xenoblade.gif)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Shokolat1&icon=5&color=1)](https://visitcount.itsvg.in)
 
