@@ -1,5 +1,5 @@
 # 🗿 About Me:
-🔭 I’m a Computer Systems Engineer working on expanding my knowledge<br>🤝 I’m looking for help with becoming better at problem solving and algorithms<br>🌱 I’m currently learning Go and Vue<br>💬 You can ask me about web dev and networks (beginner-intermediate)<br>⚡ Fun fact: I like to play the guitar
+🔭 I’m a Computer Systems Engineer working on expanding my knowledge<br>🤝 I’m looking for help with becoming better at problem solving and algorithms<br>🌱 I’m currently learning Svelte<br>💬 You can ask me about web dev and networks<br>⚡ Fun fact: I like to play the guitar
 
 ![](https://github.com/Shokolat1/Shokolat1/blob/main/xenoblade.gif)
 
